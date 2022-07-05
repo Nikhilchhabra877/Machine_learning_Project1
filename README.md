@@ -15,9 +15,7 @@ git commit <file_name> -m "message"
 git push origin main
 
 4. connect github to heroku
-Heroku_email : nikhilchhabra877@gmail.com
-API_key : 45312f9a-56df-4b65-95f0-c158c5c4d1ab
-app_name : ml-regression877
+
 5. BUILD DOCKER IMAGE
 docker build -t <image_name>:<tag_name> .
 Name of the image should be in small letters
