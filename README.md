@@ -26,6 +26,6 @@ docker run -p 5000:5000 -e PORT=5000 4c865f54466e
 8. check and stop the container
 docker ps
 docker step <container_id>
-
+9. 
 
 

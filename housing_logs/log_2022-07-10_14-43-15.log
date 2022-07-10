@@ -1,0 +1,6 @@
+[2022-07-10 14:43:15,027] werkzeug - WARNING -  * Debugger is active!
+[2022-07-10 14:43:15,030] werkzeug - INFO -  * Debugger PIN: 772-794-408
+[2022-07-10 14:43:30,773] werkzeug - INFO - 127.0.0.1 - - [10/Jul/2022 14:43:30] "GET / HTTP/1.1" 200 -
+[2022-07-10 14:43:30,816] werkzeug - INFO - 127.0.0.1 - - [10/Jul/2022 14:43:30] "[33mGET /apple-touch-icon-precomposed.png HTTP/1.1[0m" 404 -
+[2022-07-10 14:43:30,821] werkzeug - INFO - 127.0.0.1 - - [10/Jul/2022 14:43:30] "[33mGET /apple-touch-icon.png HTTP/1.1[0m" 404 -
+[2022-07-10 14:43:31,010] werkzeug - INFO - 127.0.0.1 - - [10/Jul/2022 14:43:31] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
