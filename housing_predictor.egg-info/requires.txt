@@ -1,6 +1,5 @@
 Flask
 gunicorn
-numpy 
+numpy
 pandas
 sklearn
--e .
